@@ -1,2 +1,2 @@
 # lab7
-Playing around with github
+Tai and Joe: Playing around with github
